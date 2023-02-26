@@ -17,7 +17,8 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "staging": "vite build --mode staging"
   },
   "devDependencies": {
     "vite": "^4.0.4"
